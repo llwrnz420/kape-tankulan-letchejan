@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: #fdfbf7;
+    color: #4a3b32;
+}
+
+header {
+    text-align: center;
+    padding: 10px 0;
+    background-color: #d7ccc8;
+}
+main {
+    max-width: 800px;
+    margin: 20px auto;
+    background: #ffffff;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+#best-seller {
+    font-weight: bold;
+    color: #b71c1c;
+}
+
+.tagline {
+    font-style: italic;
+    color: #5d4037;
+}
+
+.note {
+    font-size: 0.9em;
+    color: #6d4c41;
+    background-color: #efebe9;
+    padding: 8px;
+    border-left: 4px solid #8d6e63;
+}
